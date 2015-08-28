@@ -1,0 +1,55 @@
+<div class="wrapper-comp-settings editor-with-buttons is-active" id="settings-tab">
+    <ul class="list-input settings-list">
+        
+         <li class="field comp-setting-entry is-set">
+            <div class="wrapper-comp-setting">
+                <label class="label setting-label" for="youku_edit_display_name">Display Name</label>
+                <input class="input setting-input" id="youku_edit_display_name" value="{{ display_name }}" type="text">
+            </div>
+            <span class="tip setting-help">This name appears in the horizontal navigation at the top of the page.</span>
+        </li>
+      
+
+        <li class="field comp-setting-entry is-set">
+            <div class="wrapper-comp-setting">
+                <label class="label setting-label" for="youku_edit_app_id">Video client_id</label>
+                <input class="input setting-input" id="youku_edit_app_id" value="{{ app_id }}" type="text">
+            </div>
+            <span class="tip setting-help">The  client_id for your video.</span>
+        </li>
+        
+        <li class="field comp-setting-entry is-set">
+            <div class="wrapper-comp-setting">
+                <label class="label setting-label" for="youku_edit_file_id">Video vid</label>
+                <input class="input setting-input" id="youku_edit_file_id" value="{{ file_id }}" type="text">
+            </div>
+            <span class="tip setting-help">The vid for your video.</span>
+        </li>
+ 
+        <li class="field comp-setting-entry is-set">
+            <div class="wrapper-comp-setting">
+                <label class="label setting-label" for="youku_edit_width">width</label>
+                <input class="input setting-input" id="youku_edit_width" value="{{ width }}" type="text" placeholder="600">
+            </div>
+            <div class="wrapper-comp-setting">
+                <label class="label setting-label" for="youku_edit_height">height</label>
+                <input class="input setting-input" id="youku_edit_height" value="{{ height }}" type="text" placeholder="372">
+            </div>
+            <span class="tip setting-help">width and height.</span>
+        </li>
+               
+    </ul>
+    
+    <div class="xblock-actions">
+        <ul>
+            <li class="action-item">
+                <a href="#" class="button action-primary action-save">Save</a>
+            </li>
+            <li class="action-item">
+                <a href="#" class="button action-cancel">Cancel</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
