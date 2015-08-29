@@ -1,4 +1,6 @@
-#youkuXBLock by wwj718<wuwenjie718@gmail.com>
+#youkuXBLock 
+by wwj718<wuwenjie718@gmail.com>
+
 优酷开发平台：http://open.youku.com/
 
 #安装（平台级别的设置）
@@ -12,4 +14,4 @@
 进入到"Settings" ⇒ "Advanced Settings",将"youku"添加到Advanced Module List
 
 #使用方法（结合腾讯云）
-参考我的文章:[]()
+参考我的文章:[在edx中使用优酷视频服务](http://wwj718.github.io/edx-use-youku.html)
