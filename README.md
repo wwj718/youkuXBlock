@@ -1,5 +1,5 @@
 #youkuXBLock 
-by wwj718<wuwenjie718@gmail.com>
+by wwj718:<wuwenjie718@gmail.com>
 
 优酷开发平台：http://open.youku.com/
 
