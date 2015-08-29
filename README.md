@@ -13,5 +13,5 @@ by wwj718:<wuwenjie718@gmail.com>
 #在studio中设置(课程级别的设置)
 进入到"Settings" ⇒ "Advanced Settings",将"youku"添加到Advanced Module List
 
-#使用方法（结合腾讯云）
+#使用方法（结合优酷）
 参考我的文章:[在edx中使用优酷视频服务](http://wwj718.github.io/edx-use-youku.html)
