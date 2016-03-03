@@ -7,7 +7,8 @@ by wwj718:<wuwenjie718@gmail.com>
 *  sudo su edxapp -s /bin/bash
 *  cd ~
 *  source edxapp_env
-*  pip install git+https://github.com/wwj718/youkuXBlock.git
+*  git clone https://github.com/wwj718/youkuXBlock.git
+*  pip install ./youkuXBlock
 *  在/edx/app/edxapp/cms.envs.json 添加 `"ALLOW_ALL_ADVANCED_COMPONENTS": true,` 到FEATURES
 *  sudo /edx/bin/supervisorctl restart edxapp:
 
